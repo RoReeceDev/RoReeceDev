@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I built a video game about a panda in space**
 
-<p align= "left">I am a Philadelphia based full stack engineer who is commited to created web applications that make a difference and drive change. I have a background in communications and nursing home administration/finance. </p>
+<p align= "left">I am a Philadelphia based full stack engineer who is committed to creating web applications that make a difference and drive change. I have a background in communications and nursing home administration/finance. </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
